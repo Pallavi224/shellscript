@@ -28,3 +28,6 @@ DESCRIPTION
        -c, --bytes
               print the byte counts
 (1) line 1 (press h for help or q to quit)
+line count is 30
+line count is 31
+line count is 32

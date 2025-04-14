@@ -1,0 +1,3 @@
+line count is 0
+line count is 1
+line count is 2

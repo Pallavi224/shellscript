@@ -1,0 +1,2 @@
+total 0
+-rwxrwxrwx 1 allavi allavi 0 Apr 14 11:11 output.txt
