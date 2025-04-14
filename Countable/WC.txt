@@ -1,0 +1,30 @@
+WC(1)          User Commands         WC(1)
+
+NAME
+       wc  - print newline, word, and byte
+       counts for each file
+
+SYNOPSIS
+       wc [OPTION]... [FILE]...
+       wc [OPTION]... --files0-from=F
+
+DESCRIPTION
+       Print  newline,  word,   and   byte
+       counts  for  each FILE, and a total
+       line if more than one FILE is spec‐
+       ified.  A word is a non-zero-length
+       sequence  of  printable  characters
+       delimited by white space.
+
+       With  no  FILE,  or when FILE is -,
+       read standard input.
+
+       The options below may  be  used  to
+       select  which  counts  are printed,
+       always in the following order: new‐
+       line, word, character, byte,  maxi‐
+       mum line length.
+
+       -c, --bytes
+              print the byte counts
+(1) line 1 (press h for help or q to quit)
